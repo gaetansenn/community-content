@@ -524,3 +524,13 @@
     - SCSS
   made_by: Steven Sturkop
   made_by_url: https://www.linkedin.com/in/stevensturkop/
+- title: Mypopotte
+  url: https://mypopotte.com
+  description: Avec Mypopotte, vous pouvez partager et améliorer vos recettes avec vos groupes d'amis.
+  categories:
+    - Community website
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+  made_by: Gaetan SENN
+  made_by_url: https://dewib.com
